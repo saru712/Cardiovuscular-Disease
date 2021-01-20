@@ -29,7 +29,8 @@ From the above facts and figures, we can easily conclude that Cardiovascular dis
 - Used AdaBoost Classifier with Hyperparameter Tuning to obtain 75% accuracy
 
 ## Deployment:
- -Created the Web Application.
+
+- Created the Web Application.
 - Used Heroku platform for deployment [Prediction of Cardiovuscular-Disease](http://cardiodiseasepredict.herokuapp.com/).
 
 

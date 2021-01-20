@@ -8,6 +8,8 @@ From the above facts and figures, we can easily conclude that Cardiovascular dis
 
 <img src = '/Medical.jpg'>
 
+Contributors - [Ajay Bile](hhttps://github.com/AjayBile), [Sarika Nangare](https://github.com/saru712)
+
 ### Data Columns:
 - **Age** :age of a person in Days
 - **gender** :gender of the person

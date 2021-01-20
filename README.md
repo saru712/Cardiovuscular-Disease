@@ -9,7 +9,7 @@ From the above facts and figures, we can easily conclude that Cardiovascular dis
 <img src = '/Medical.jpg'>
 
 ### Data Columns:
-- age :age of a person in Days
+- **Age** :age of a person in Days
 - gender :gender of the person
 - height :height of the person in cm
 - weight :weight of the person in kg

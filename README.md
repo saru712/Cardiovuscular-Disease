@@ -22,10 +22,10 @@ From the above facts and figures, we can easily conclude that Cardiovascular dis
 - **active** :Binary Values stating whether Person is involved in physical activites or not i.e. {0 : 'Not involved in Physical Activites', 1 : 'involved in physical activites'}
 - **cardio** :Binary Values stating whether Person has Cardiovascular diseases (CVDs) or Not i.e. {0 : 'Not Have CVD', 1 : 'Have CVD'}
 
-## Work:
+## Problem Statement:
 - Need to predict if a person has Cardiovuscular Disease or not.
 
-## SuperVised Learning:
+## ML Algorithm: 
 - Used AdaBoost Classifier with Hyperparameter Tuning to obtain 75% accuracy
 
 ## Deployment:
